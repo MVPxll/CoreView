@@ -1,6 +1,6 @@
 {
   "versionCode": 16,
-  "versionName": "WIP0.21",
+  "versionName": "WIP0.25",
   "apkUrl": "https://github.com/MVPxll/CoreView/releases/download/WIP0.25/CoreView-WIP0.25.apk",
   "sha256": "c727553fe58e5bb3056c8573499d892ed856ce14c86bca7c9f2267728e5af068",
   "changelog": "新增检测温度的功能，温度过高时紧急弹窗提醒",
