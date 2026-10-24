@@ -1,0 +1,8 @@
+{
+  "versionCode": 15,
+  "versionName": "WIP0.21",
+  "apkUrl": "https://github.com/MVPxll/CoreView/releases/download/WIP0.21/CoreView-WIP0.21.apk",
+  "sha256": "61f379b9839a425bbb41a23369b2816eccd114d35f88e2671e377aa42a421346",
+  "changelog": "新增公告、检查更新、下载进度通知和关于页检查更新。",
+  "force": false
+}
